@@ -5,6 +5,6 @@
 
 *Teniendo los 5 objetos, agregarlos a una lista. 
 *Crear la lógica para ordenar alfabéticamente la lista y mostrar en consola de acuerdo al siguiente criterio:
-*Ordenado por nombre.
-*Ordenado por apellido.
-*Ordenado inversamente por apellido.
+-Ordenado por nombre.
+-Ordenado por apellido.
+-Ordenado inversamente por apellido.
