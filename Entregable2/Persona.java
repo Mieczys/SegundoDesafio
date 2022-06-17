@@ -16,13 +16,22 @@ public class Persona {
         this.apellido = apellido;
     }
 
-    //Creo solamente los getters ya que no voy a utilizar setters.
+    //Creo setters y getters.
     public String getNombre() {
         return nombre;
     }
     public String getApellido() {
         return apellido;
     }
+    
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+    public void setApellido(String apellido) {
+        this.apellido = apellido;
+    }
+    
 
     //Creo un toString para mostrar por consola.
     @Override
