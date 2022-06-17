@@ -4,8 +4,8 @@ package Entregable2;
 public class Persona {
 
     //Creo los atributos de la clase
-    String nombre;
-    String apellido;
+    private String nombre;
+    private String apellido;
 
     
 
